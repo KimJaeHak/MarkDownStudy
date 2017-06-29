@@ -15,11 +15,11 @@
 >```cpp 코드 ``` 이런식으로 한다.
 
 5. 강조 
-> *강조 어구*
+>*강조 어구*
 
 6. Image
 >![Alt text](/path/to/img.jpg)
 
 7. Link
 >[GitHub](http://github.com)
-[GitHub](http://github.com)
+[구글](http://google.co.kr)

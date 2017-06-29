@@ -18,8 +18,8 @@
 >*강조 어구*
 
 6. Image
-* \!\[Alt text\](/path/to/img.jpg) *
+\!\[Alt text\](/path/to/img.jpg)
 
-7. Link
-\[GitHub\]\(http://github.com\)
+7. Link <br/>
+\[GitHub\]\(http://github.com)<br/>
 [구글](http://google.co.kr)
